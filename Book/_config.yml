@@ -1,0 +1,8 @@
+# in _config.yml
+# Book settings
+title: Jupyter Book Demo 
+author: Dr. Soumen Atta, Ph.D. 
+copyright: '2021'
+# Launch button settings
+repository:
+  url: https://github.com/ScrapingPatheos/test.git
